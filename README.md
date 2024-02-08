@@ -1,30 +1,28 @@
-# SnakeGame
+# Wordle Game
 
-This SnakeGame is a classic arcade game implemented using HTML, CSS, and JavaScript. It provides a fun and interactive gaming experience where players control a snake to eat food and grow longer while avoiding collisions with walls and its own body.
+## Description
+Wordle is a word guessing game where players try to guess a hidden word based on clues provided by the game. This is a simple implementation of the Wordle game using JavaScript, HTML, and CSS.
 
 ## Features
-
-- **Responsive Design**: The game is designed to be responsive, ensuring compatibility across various screen sizes and devices for an optimized gaming experience.
-- **Intuitive Controls**: Players can control the snake's movement using arrow keys or swipe gestures on touchscreen devices, offering smooth and intuitive gameplay.
-- **Dynamic Grid Rendering**: Leveraging HTML and CSS, the game renders a dynamic grid layout to display the game board, snake, and food elements.
-- **Real-time Updates**: JavaScript is used to handle real-time updates and rendering of game elements without page reloads, providing seamless and uninterrupted gameplay.
-
-## How to Play
-
-1. Use the arrow keys on your keyboard to control the snake's movement.
-2. Guide the snake to eat the food displayed on the grid.
-3. Each time the snake eats food, it grows longer.
-4. Avoid collisions with walls and the snake's own body, as it will result in game over.
-5. Try to achieve the highest score possible by eating as much food as you can without colliding.
+- Guess words based on provided clues
+- Feedback on correct/incorrect guesses
 
 ## Technologies Used
-
-- HTML5
-- CSS3
 - JavaScript
+- HTML
+- CSS
 
-## Credits
+## How to Play
+1. Guess the word based on the provided clues.
+2. Input your guess in the provided input field.
+3. Submit your guess to see feedback on your guess.
 
-This game was created by Prerna.
+## Code Structure
+- `wordle1.html`: Main HTML file containing the game layout.
+- `wordle1.css`: CSS stylesheet for styling the game.
+- `wordle1.js`: JavaScript file containing the game logic.
+
+
+
 
 
